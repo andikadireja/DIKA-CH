@@ -3,9 +3,9 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-global.owner = ['6285546507487','0']
+global.owner = ['6285770575380','6285659856592']
 global.packname = 'Bot Hosting'
-global.author = 'Nezuko'
+global.author = 'Dikaahost'
 global.sessionName = 'data'
 global.prefa = ['','!','.','#']
 global.ownername = 'Owner'
